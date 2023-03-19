@@ -1,0 +1,29 @@
+[{
+    "nombre": "palio",
+    "anio":"2013",
+    "duenio":"Sara Perez",
+    "patente": "DSK109",
+    "km": 233.090
+},
+{
+    "nombre": "bora",
+    "anio":"2015",
+    "duenio":"Nahuel Blasco",
+    "patente": "KSR130",
+    "km": 105.090
+},
+{
+    "nombre": "Fiat Siena",
+    "anio":"2011",
+    "duenio":"Sara Aguilera",
+    "patente": "JFS430",
+    "km": 90.090
+},
+{
+    "nombre": "Ford",
+    "anio":"2004",
+    "duenio":"Fabian Aladro",
+    "patente": "TPK938",
+    "km": 150.344
+}
+]
